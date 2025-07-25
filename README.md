@@ -1,1 +1,1 @@
-# Diagnosis-prediction
+# Diagnosis-prediction# This project aims to build a machine learning model that predicts medical diagnoses based on patient data. It leverages data preprocessing, feature engineering, and predictive modeling to assist in early and accurate diagnosis
