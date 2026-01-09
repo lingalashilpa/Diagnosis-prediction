@@ -1,13 +1,13 @@
-**Medical Imaging Analysis Project**
+##**Medical Imaging Analysis Project**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project focuses on Medical Imaging Analysis using Python and Machine Learning techniques.
 The main goal of the project is to analyze medical images (such as X-rays, MRI, or CT scan images) and extract useful information that can help in disease detection, classification, or analysis.
 
 Medical imaging plays a very important role in the healthcare field by helping doctors diagnose diseases accurately and early.
 
-🎯 Objective of the Project
+🎯 **Objective of the Project**
 
 To understand how medical images can be processed using computers
 
@@ -20,7 +20,8 @@ To improve accuracy and efficiency in medical diagnosis
 To gain hands-on experience with real-world healthcare data
 
 **🛠️ Technologies & Tools Used**
-Programming Language
+
+**Programming Language**
 
 Python
 
@@ -87,7 +88,7 @@ Measured model performance using accuracy and other metrics
 
 Compared results to understand model effectiveness
 
-📊 Results
+📊 **Results**
 
 The model was able to analyze medical images effectively
 
@@ -98,7 +99,7 @@ Demonstrated how AI can support medical diagnosis
 ▶️ How to Run the Project (Step-by-Step)
 1️⃣ Install Required Software
 
-Make sure you have:
+**Make sure you have:**
 
 Python 3.x
 
@@ -121,7 +122,7 @@ Run each cell step by step
 
 Make sure the dataset path is correct
 
-🧪 Dataset
+🧪 **Dataset**
 
 Medical image dataset used for training and testing
 
@@ -129,7 +130,7 @@ Images are labeled for classification
 
 Dataset is used only for educational purposes
 
-🚀 Future Enhancements
+🚀 **Future Enhancements**
 
 Use larger and more diverse datasets
 
@@ -141,7 +142,7 @@ Add real-time image analysis
 
 Integrate with hospital management systems
 
-🏥 Applications
+🏥 **Applications**
 
 Disease detection
 
@@ -153,7 +154,7 @@ Research and development
 
 Clinical decision-making
 
-👩‍💻 Author
+👩‍💻 **Author**
 
 Shilpa
 Final Year B.Tech – Computer Science
