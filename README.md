@@ -96,10 +96,11 @@ Achieved good accuracy in identifying patterns from images
 
 Demonstrated how AI can support medical diagnosis
 
-▶️ How to Run the Project (Step-by-Step)
+**▶️ How to Run the Project (Step-by-Step)**
+
 1️⃣ Install Required Software
 
-**Make sure you have:**
+Make sure you have:
 
 Python 3.x
 
