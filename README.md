@@ -1,4 +1,4 @@
-##**Medical Imaging Analysis Project**
+**Medical Imaging Analysis Project**
 
 📌 **Project Overview**
 
