@@ -1,4 +1,5 @@
-Medical Imaging Analysis Project
+**Medical Imaging Analysis Project**
+
 📌 Project Overview
 
 This project focuses on Medical Imaging Analysis using Python and Machine Learning techniques.
@@ -18,7 +19,7 @@ To improve accuracy and efficiency in medical diagnosis
 
 To gain hands-on experience with real-world healthcare data
 
-🛠️ Technologies & Tools Used
+**🛠️ Technologies & Tools Used**
 Programming Language
 
 Python
@@ -39,7 +40,7 @@ TensorFlow / Keras (if used) – For deep learning
 
 Jupyter Notebook – For project implementation
 
-📂 Project Structure
+📂 **Project Structure**
 Medical-Imaging-Project/
 │
 ├── A12-medical imaging.ipynb   # Main project notebook
@@ -47,7 +48,7 @@ Medical-Imaging-Project/
 ├── images/                    # Sample images (optional)
 ├── README.md                  # Project documentation
 
-🧠 What We Did in This Project
+🧠 **What We Did in This Project**
 1. Data Collection
 
 Collected medical imaging data (X-ray / MRI / CT images)
